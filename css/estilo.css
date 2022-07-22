@@ -1,0 +1,58 @@
+body{
+    background-image: url(img1.jpg);
+    background-size: 100%;
+}
+/*HEADER*/
+#media{
+    float: right;
+}
+#media a, ul{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 1.3em;
+    padding: 5px 10px;
+    margin: 0;
+    list-style: none;
+}
+#media a:hover{
+    border: 1px solid rgb(89, 10, 121);
+    background-color:rgb(126, 20, 168) ;
+}
+
+/*MAIN*/
+main #cabeca{
+    text-align: center;
+    color: white;
+    width: 1350px;
+    padding: 180px 0;
+   
+}
+#imagem{
+    height: 210px;
+    position: fixed;
+}
+main h1{
+    font-size: 80px;
+    margin: 0;
+}
+main a, ul{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 1.3em;
+    padding: 5px 10px;
+    margin: 0;
+    list-style: none;
+}
+main a:hover{
+    border: 1px solid rgb(89, 10, 121);
+    background-color:rgb(126, 20, 168) ;
+}
+
+#nome{
+    color: rgb(228, 0, 0);
+}
+#cf{
+    margin-top: -10px;
+    color: white;
+    padding-left: 15px;
+}
